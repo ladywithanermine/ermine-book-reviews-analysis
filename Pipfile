@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyterlab = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+bokeh = "*"
+plotly = "*"
 
 [dev-packages]
 
