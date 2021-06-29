@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 bokeh = "*"
 plotly = "*"
+wordcloud = "*"
 
 [dev-packages]
 
