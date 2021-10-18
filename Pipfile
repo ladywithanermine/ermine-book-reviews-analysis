@@ -12,6 +12,7 @@ bokeh = "*"
 plotly = "*"
 wordcloud = "*"
 pyarrow = "*"
+flask = "*"
 
 [dev-packages]
 
