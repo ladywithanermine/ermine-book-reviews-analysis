@@ -11,6 +11,7 @@ seaborn = "*"
 bokeh = "*"
 plotly = "*"
 wordcloud = "*"
+pyarrow = "*"
 
 [dev-packages]
 
